@@ -1,0 +1,59 @@
+
+  /*	-	THE BANNER CONTAINER (Padding, Shadow, Border etc. )	-	*/
+
+  .bannercontainer {	
+		padding:5px;		
+		background-color:#fff;
+		width:890px;	
+		position:relative;
+		position:relative;	
+		margin-left:auto;
+		margin-right:auto;	
+	
+	}
+ 
+  .banner{		
+		width:890px;
+		height:490px;
+		position:relative;
+		overflow:hidden;			
+   }
+   
+   
+    .bannercontainer-simple {	
+		padding:5px;		
+		background-color:#fff;
+		width:890px;	
+		position:relative;
+		position:relative;	
+		margin-left:auto;
+		margin-right:auto;	
+	
+	}
+ 
+  .banner-simple{		
+		width:890px;
+		height:490px;
+		position:relative;
+		overflow:hidden;			
+   }
+
+ .fullwidthbanner-container{
+	width:100% !important;		
+	position:relative;
+	padding:0;		
+	max-height:576px !important;
+	overflow:hidden;
+} 
+
+
+.fullwidthbanner-container .fullwidthabnner	{
+	width:100% !important;
+	max-height:450px !important;
+	position:relative;	
+}
+
+
+
+/*index revolution slider changes*/
+.index-rev-slider.fullwidthbanner-container{ max-height:682px !important;}
